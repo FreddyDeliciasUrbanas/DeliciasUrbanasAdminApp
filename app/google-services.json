@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1090587156632",
+    "firebase_url": "https://delicias-urbanas-1530741554978.firebaseio.com",
+    "project_id": "delicias-urbanas-1530741554978",
+    "storage_bucket": "delicias-urbanas-1530741554978.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090587156632:android:3772cf404d76bc61",
+        "android_client_info": {
+          "package_name": "cl.deliciasurbanas.www.admindeliciasurbanas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090587156632-m5v1hfvd5u12dns458c6bsh3777l717d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7GVQhY5mcGo8t_VJF8a-fvIAVebUCttU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
